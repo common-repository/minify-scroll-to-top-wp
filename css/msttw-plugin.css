@@ -1,0 +1,22 @@
+/*====================================================
+                         scrollUp
+======================================================*/
+.topcontrol {
+    bottom: 5px;
+    
+    cursor: pointer;
+    font-size: 26px;
+    height: 40px;
+    opacity: 1;
+    filter: alpha(opacity=100);
+    padding: 6px 12px;
+    position: fixed;
+    -webkit-transition: all 0.2s ease 0s;
+    transition: all 0.2s ease 0s;
+    width: 40px;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
